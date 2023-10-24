@@ -1,0 +1,2 @@
+# Thori
+Penambangan Data
